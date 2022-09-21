@@ -11,8 +11,6 @@ import com.pdh.exam.demo.utill.Ut;
 import com.pdh.exam.demo.vo.Member;
 import com.pdh.exam.demo.vo.ResultData;
 
-
-
 @Controller
 public class UsrMemberController {	
 	private MemberService memberService;
@@ -56,7 +54,7 @@ public class UsrMemberController {
 		
 		Member member = memberService.getMemberById(joinRd.getData1());
 		
-		return ResultData.newData(joinRd, member);
+		return ResultData.newData(joinRd, "member", member);
 	}
 	
 	@RequestMapping("/usr/member/doLogout")
