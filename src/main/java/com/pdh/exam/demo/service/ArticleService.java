@@ -5,7 +5,7 @@ import java.util.List;
 import org.springframework.stereotype.Service;
 
 import com.pdh.exam.demo.repository.ArticleRepository;
-import com.pdh.exam.vo.Article;
+import com.pdh.exam.demo.vo.Article;
 
 @Service
 public class ArticleService {
