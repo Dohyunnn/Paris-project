@@ -1,4 +1,4 @@
-package com.pdh.exam.vo;
+package com.pdh.exam.demo.vo;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
