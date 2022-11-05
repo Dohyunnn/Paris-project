@@ -12,5 +12,8 @@ spring:
      username: korad
      password: 1234
 mybatis:
-  type-aliases-package: com.pdh.exam.demo.vo 
-  
+    type-aliases-package: com.pdh.exam.demo.vo
+custom:
+  logging:
+    dir: log
+    level: debug 
