@@ -58,7 +58,7 @@ public class UsrArticleController {
 		
 		model.addAttribute("articles", articles);
 		
-		return "usr/article/List";
+		return "usr/article/list";
 	}
 	
 	@RequestMapping("/usr/article/getArticle")
