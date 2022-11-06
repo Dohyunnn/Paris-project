@@ -14,7 +14,7 @@
          <col width ="150"/>
         </colgroup>
         <thead>
-          <tr>
+          <tr> 
             <th>번호</th>
             <th>작성날짜</th>
             <th>수정날짜</th>
@@ -28,7 +28,7 @@
               <td>${article.id}</td>
               <td>${article.regDate.substring(2, 16)}</td>
               <td>${article.updateDate.substring(2, 16)}</td>
-              <td>${article.memberId}</td>
+              <td>${article.extra__writerName}</td>
               <td>
                 <a href="../article/detail?id=${article.id}">${article.title}</a>
               </td>
