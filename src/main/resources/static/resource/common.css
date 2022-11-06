@@ -1,3 +1,4 @@
+/* 폰트 */
 @font-face {
     font-family: 'NanumBarunpen';
     src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_two@1.0/NanumBarunpen.woff') format('woff');
@@ -8,6 +9,10 @@ html> body {
 	  font-family: 'NanumBarunpen';
 }
 
+/* 라이브러리 */
+.table-box-type-1> table{
+	width:100%
+}
 .table-box-type-1 > table th,
 .table-box-type-1 > table td {
 	border: 1px solid black;
