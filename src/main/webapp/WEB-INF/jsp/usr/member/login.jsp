@@ -8,7 +8,7 @@
     <form class="table-box-type-1" method="POST" action="../member/doLogin">
       <table>
       <colgroup>
-      <col width ="200"/>
+        <col width ="200"/>
       </colgroup>
         <tbody>
           <tr>
