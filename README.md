@@ -7,11 +7,17 @@
 ## ✨ 기능
 
 회원가입   로그인   로그아웃  상세정보 수정 
+
 게시물 작성 / 수정 / 삭제 
+
 게시물 리스트 / 게시물 검색 
+
 상세 페이지 / 추천, 좋아요 /
+
 댓글 작성  / 수정  /  삭제 
+
 NeedLoginInterceptor /  NeedLoginInterceptor
 
 ⚙ 동작과정 
+
 <img width="657" height="256" alt="image" src="https://github.com/user-attachments/assets/fc7f4292-691c-479f-b705-197f6b2dcd9c" />
