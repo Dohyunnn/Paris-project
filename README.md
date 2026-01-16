@@ -18,6 +18,6 @@
 
 NeedLoginInterceptor /  NeedLoginInterceptor
 
-⚙ 동작과정 
+## ⚙ 동작과정 
 
 <img width="657" height="256" alt="image" src="https://github.com/user-attachments/assets/fc7f4292-691c-479f-b705-197f6b2dcd9c" />
